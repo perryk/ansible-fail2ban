@@ -1,0 +1,9 @@
+[redmine]
+enabled = true
+filter = redmine
+port = http,https
+logpath = /home/redmine/redmine/log/redmine-dev.log
+maxretry = 5
+findtime = 600
+bantime = 600
+
